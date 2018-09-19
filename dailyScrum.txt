@@ -1,0 +1,179 @@
+DAILY SCRUM - EVERY DAY AT 9 AM
+===============================
+
+Each member writes down answers to 3 questions:
+
+<< Current date goes here >>
+1. What I have done / not done since last Scrum?
+2. What I plan to do from this scrum to next? (24 hours)
+3. Where do I need assistance? What do I need to figure out?
+
+<< 2018-02-28 >> Brandon
+1. Done / Not done since last Scrum
+- Created git repository
+- Added project to repository
+- Designed login and movie list windows
+- Did not complete project proposal
+- Connected project to the database
+2. Plan to do next
+- Finish project proposal
+- Add functionality to login / register window
+3. Need assistance / figure out
+- Need assistance loading API database.
+
+<< 2018-02-28 >> Roberto
+1. Done / Not done since last Scrum
+- Create database on Azure and admin login
+- Designed buy ticket, print ticket and seat selection windows
+- Created all tables into the database
+- Did not complete project proposal
+2. Plan to do next
+- Finish project proposal
+- Start working on the functionality to buy a ticket
+3. Need assistance / figure out
+- Need assistance loading API database.
+
+<<2018-03-01>> Brandon
+1. Done / Not done since last Scrum
+- Finished and submitted project proposal.
+- Completed registration form with validation.
+- Did not finish login form.
+2. Plan to do next.
+- Finish login form
+- Retrieve user info from database to succesfully log in.
+- Connect to API and send data into our database.
+3. Need assistance / figure out
+- Connecting to API and retrieving data.
+
+<<2018-03-01>> Roberto
+1. Done / Not done since last Scrum
+- Completed project proposal
+- Added add/remove ticket functionality
+- Got API key for The Movie Database
+2. Plan to do next
+- Try to connect to the API
+- Complete the Ticket reservation
+3. Need assistance / figure out
+- Create a PDF 
+
+<<2018-03-02>> Brandon
+1. Done / Not done since last Scrum
+- Completed login form.
+- Finished login functionality, storing user info in database and retrieving.
+- Did not add code to connect to API database.
+2. Plan to do next
+- Connect to API and transfer data to azure database.
+3. Need assistance / figure out
+- Adding movie list data to jTable.
+
+<<2018-03-02>> Roberto
+1. Done / Not done since last Scrum
+- Completed Ticket reservation
+- Did not connect to the API
+2. Plan to do next
+- Test Login, logout and registration
+- Create a review and print Ticket window
+3. Need assistance / figure out
+- May need assistance to choose the Java API for the PDF
+
+<<2018-03-02 WEEKEND>> Brandon
+1. Done / not done since last scrum
+- Remade Login and Register dialogs into standalone JDialogs.
+- Connected to API
+- Did not transfer api data to our database.
+2. Plan to do next
+- Correctly read and store data from api database into ours.
+- Display movie information in JTable.
+3. Need assistance / figure out
+- Storing api result into array.
+- Storing data in table from the code.
+
+<<2018-03-02 WEEKEND>> Roberto
+1. Done / not done since last scrum
+- Create PrintTicket frame connected to BuyTickets
+- Tested LogIn and Registration
+- Did not connect to the PDF API
+2. Plan to do next
+- Add API to create and print PDF
+_ Add functionalities to PrintTicket frame
+3. Need assistance / figure out
+
+
+<<2018-03-03>> Roberto
+1. Done / not done since last scrum
+- Connected to iText API to create a PDF
+- Create Ticket review 
+- Made modification to the database
+- Did not add all the function to print the PDF
+2. Plan to do next
+- Complete the PDF printing
+- Read from the Movie list window
+3. Need assistance / figure out
+- How to print many tickets 
+
+<<2018-03-05>> Brandon
+1. Done / not done since last scrum
+- Read data from api and store into our own Database. Does not add duplicate movies.
+- Display movie information in table.
+2. Plan to do next
+- Fix huge bug that causes the table to reload images constantly.
+- Fix bug that allows users to register with the same email multiple times.
+3. Need assistance / figure out
+- Figure out how to load the url image before rendering the table cells.
+
+<<2018-03-05>> Roberto
+1. Done / not done since last scrum
+- Created GUI for the Admin to add Showtimes to the database
+- Completed PDF Printing
+2. Plan to do next
+- Finish the AddShowtime
+- Fix bugs for the PDF print ticket
+3. Need assistance / figure out
+- How to print many tickets
+
+<<2018-03-06>> Brandon
+1. Done / not done since last scrum
+- Fixed bug that caused images to load from url constantly.
+- Fixed bug that allowed users to register twice with same email.
+2. Plan to do next
+- Fix bug that allows users to buy tickets without logging in
+- Prepare presentation
+3. Need assistance / figure out
+
+<<2018-03-06>> Roberto
+1. Done / not done since last scrum
+- AddShowtime completed
+- Bug for printing fixed
+- Did not implement seat selection
+- Did not print many tickets
+2. Plan to do next
+- create a seat selection table and a seatsBooked table
+- Create seat selection GUI
+- Implement functionality and checks for the seats selection screen
+- Add missing messages to the printing and option that brings you to the beginning
+3. Need assistance / figure out
+
+<<2018-03-07>> Brandon
+1. Done / not done since last scrum
+- Started presentation
+- Added splash screen
+- Squashed some bugs
+2. Plan to do next
+- Add dialog to update ticket prices
+- Finish presentation
+3. Need assistance / figure out
+
+<<2018-03-07>> Roberto
+1. Done / not done since last scrum
+- Tables seat selection table and a seatsBooked created
+- Completed seat selection with all functionality 
+- Added missing message to the printing
+- Did not write the purchase on the database
+- Did not add option to bring you to the beginning
+2. Plan to do next
+- Fix seat Selection bugs
+- Write the purchase in database
+- Add back to movie list option
+3. Need assistance / figure out
+
+
